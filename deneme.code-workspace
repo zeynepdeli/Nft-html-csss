@@ -7,5 +7,7 @@
 			"path": "../Yeni klasör (2)"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "NFT"
+	}
 }
